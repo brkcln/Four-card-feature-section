@@ -85,12 +85,12 @@ main {
 }
 .f {
 	grid-area: f;
-	border-top: 2px solid hsl(180, 62%, 55%);
+	border-top: 3px solid hsl(180, 62%, 55%);
 }
 
 .g {
 	grid-area: g;
-	border-top: 2px solid hsl(212, 86%, 64%);
+	border-top: 3px solid hsl(212, 86%, 64%);
 }
 
 .a {
@@ -103,14 +103,14 @@ main {
 .b {
 	grid-area: b;
 	align-self: flex-end;
-	border-top: 2px solid hsl(0, 78%, 62%);
+	border-top: 3px solid hsl(0, 78%, 62%);
 	box-shadow: -10px -10px 80px -13px rgba(150, 143, 127, 0.5);
 }
 
 .e {
 	grid-area: e;
 	align-self: flex-start;
-	border-top: 2px solid hsl(34, 97%, 64%);
+	border-top: 3px solid hsl(34, 97%, 64%);
 	box-shadow: 10px 10px 80px -13px rgba(150, 143, 127, 0.5);
 }
 
